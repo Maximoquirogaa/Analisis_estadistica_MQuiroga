@@ -9,7 +9,7 @@
 
 Aquí puedes acceder a la presentación audiovisual correspondiente a las actividades de la segunda semana. 
 
-### ➡️ [Haz clic aquí para ver el Video de la Semana 2]https://youtu.be/HtX0-9QPKhQ) ⬅️
+### ➡️ [Haz clic aquí para ver el Video de la Semana 2](https://youtu.be/HtX0-9QPKhQ)⬅️
 
 ---
 
