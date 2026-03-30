@@ -11,7 +11,7 @@ Aquí puedes acceder a la presentación audiovisual correspondiente a las activi
 
 ### ➡️ [Haz clic aquí para ver el Video de la Semana 2](INSERTA_TU_LINK_AQUI) ⬅️
 
-> 💡 **Nota:** Reemplaza el texto `INSERTA_TU_LINK_AQUI` con el enlace real de tu video (YouTube, Google Drive, Vimeo, etc.).
+> 💡 **Nota:** Reemplaza el texto `https://youtu.be/HtX0-9QPKhQ` con el enlace real de tu video (YouTube, Google Drive, Vimeo, etc.).
 
 ---
 
